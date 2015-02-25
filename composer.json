@@ -1,0 +1,11 @@
+{
+    "name": "typo3-ter/wt-doorman",
+    "version": "2.0.0",
+    "type": "typo3-cms-extension",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+
+}
